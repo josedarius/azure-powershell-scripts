@@ -1,0 +1,2 @@
+StorageAccountName,ResourceGroupName,ContainerName,FilePath
+dariusstorageacct01,storagerg,mycontainer,C:\temp\example.txt

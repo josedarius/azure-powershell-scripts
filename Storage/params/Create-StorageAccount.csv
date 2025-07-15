@@ -1,0 +1,2 @@
+ResourceGroupName,StorageAccountName,Location,SkuName,Kind
+storagerg,dariusstorageacct01,westeurope,Standard_LRS,StorageV2

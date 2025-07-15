@@ -1,0 +1,2 @@
+StorageAccountName,ResourceGroupName,ContainerName,BlobName,DownloadPath
+dariusstorageacct01,storagerg,mycontainer,example.txt,C:\temp\downloaded.txt
