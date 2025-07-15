@@ -1,0 +1,2 @@
+StorageAccountName,ResourceGroupName,ShareName,QuotaGB
+dariusstorageacct01,storagerg,myshare,100

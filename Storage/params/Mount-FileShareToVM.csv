@@ -1,0 +1,2 @@
+StorageAccountName,FileShareName,DriveLetter,Username,Password
+dariusstorageacct01,myshare,Z:,storageacct01,password123

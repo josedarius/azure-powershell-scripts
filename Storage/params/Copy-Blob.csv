@@ -1,0 +1,2 @@
+SourceAccount,ResourceGroupName,SourceContainer,BlobName,DestContainer
+dariusstorageacct01,storagerg,mycontainer,example.txt,backupcontainer

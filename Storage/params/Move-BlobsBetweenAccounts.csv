@@ -1,0 +1,2 @@
+SourceAccount,SourceRG,SourceContainer,DestAccount,DestRG,DestContainer
+acct1,storagerg1,source,acct2,storagerg2,target
