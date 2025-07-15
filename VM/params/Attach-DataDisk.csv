@@ -1,0 +1,2 @@
+ResourceGroupName,VMName,DiskSizeGB
+vm-rg,vmprod01,64

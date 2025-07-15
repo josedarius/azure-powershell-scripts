@@ -1,0 +1,2 @@
+ResourceGroupName,VMName,NewSize
+vm-rg,vmprod01,Standard_B2s

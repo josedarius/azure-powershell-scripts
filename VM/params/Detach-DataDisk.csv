@@ -1,0 +1,2 @@
+ResourceGroupName,VMName,DiskName
+vm-rg,vmprod01,vmprod01-datadisk
