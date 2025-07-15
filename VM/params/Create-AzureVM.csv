@@ -1,0 +1,2 @@
+ResourceGroupName,Location,VMName,AdminUsername,AdminPassword,VMSize
+demo-rg,westeurope,myVM01,azureuser,StrongP@ssw0rd!,Standard_B1s
