@@ -1,0 +1,2 @@
+ResourceGroupName,Location,GatewayName,VNetName,GatewaySubnetName,PublicIPName
+network-rg,westeurope,myVNetGW,myVNet,GatewaySubnet,myGWPublicIP

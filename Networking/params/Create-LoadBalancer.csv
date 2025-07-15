@@ -1,0 +1,2 @@
+ResourceGroupName,LBName,Location,FrontendIPName,BackendPoolName,PublicIPName
+network-rg,myLoadBalancer,westeurope,myFrontendIP,myBackendPool,myLBPublicIP

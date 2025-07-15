@@ -1,0 +1,2 @@
+ResourceGroupName,AppGatewayName,Location,VNetName,SubnetName,FrontendPort,BackendIP,PublicIPName
+network-rg,myAppGateway,westeurope,myVNet,appgw-subnet,80,10.0.1.4,myAppGWPublicIP
