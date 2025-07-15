@@ -1,0 +1,2 @@
+ResourceGroupName,VMName,FileUri,CommandToExecute
+vm-rg,vmprod01,https://example.com/script.ps1,powershell -ExecutionPolicy Unrestricted -File script.ps1

@@ -1,0 +1,2 @@
+ResourceId,WorkspaceId
+/subscriptions/xxxx/resourceGroups/vm-rg/providers/Microsoft.Compute/virtualMachines/vmprod01,workspace-guid
