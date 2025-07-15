@@ -1,0 +1,2 @@
+ResourceGroupName	Location	VMName	AdminUsername	AdminPassword	VMSize
+vm-rg	westeurope	vmprod01	azureadmin	StrongP@ss123	Standard_B1s
