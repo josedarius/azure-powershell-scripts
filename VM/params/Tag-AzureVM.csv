@@ -1,0 +1,2 @@
+ResourceGroupName,VMName,TagKey,TagValue
+vm-rg,vmprod01,Environment,Production
