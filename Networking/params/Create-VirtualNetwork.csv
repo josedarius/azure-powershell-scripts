@@ -1,0 +1,2 @@
+ResourceGroupName,VNetName,Location,AddressPrefix,SubnetName,SubnetPrefix
+network-rg,myVNet,westeurope,10.0.0.0/16,default,10.0.0.0/24

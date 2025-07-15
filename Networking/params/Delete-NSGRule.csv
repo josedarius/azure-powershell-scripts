@@ -1,0 +1,2 @@
+ResourceGroupName,NSGName,RuleName
+network-rg,web-nsg,AllowHTTP

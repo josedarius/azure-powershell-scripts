@@ -1,0 +1,2 @@
+ResourceGroupName,NSGName,StorageAccountId
+network-rg,web-nsg,/subscriptions/.../storageAccount

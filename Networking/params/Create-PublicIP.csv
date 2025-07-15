@@ -1,0 +1,2 @@
+ResourceGroupName,IPName,Location,AllocationMethod
+network-rg,myPublicIP,westeurope,Static

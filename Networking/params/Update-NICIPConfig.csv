@@ -1,0 +1,2 @@
+NICName,ResourceGroupName,PrivateIPAllocationMethod
+nic01,network-rg,Dynamic

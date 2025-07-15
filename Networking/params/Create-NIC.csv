@@ -1,0 +1,2 @@
+ResourceGroupName,NICName,SubnetId,Location,NSGId,PublicIPId
+network-rg,nic01,/subscriptions/.../subnet,westeurope,,

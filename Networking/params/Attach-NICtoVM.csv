@@ -1,0 +1,2 @@
+ResourceGroupName,VMName,NICId
+network-rg,vm01,/subscriptions/.../nic

@@ -1,0 +1,2 @@
+ResourceGroupName,NSGName,RuleName,Priority,Port,Protocol
+network-rg,web-nsg,AllowHTTP,100,80,Tcp

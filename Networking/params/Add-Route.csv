@@ -1,0 +1,2 @@
+ResourceGroupName,RouteTableName,RouteName,AddressPrefix,NextHopType
+network-rg,myRouteTable,default,0.0.0.0/0,Internet

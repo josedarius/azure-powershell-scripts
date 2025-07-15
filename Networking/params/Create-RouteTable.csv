@@ -1,0 +1,2 @@
+ResourceGroupName,RouteTableName,Location
+network-rg,myRouteTable,westeurope

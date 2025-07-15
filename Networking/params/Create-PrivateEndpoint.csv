@@ -1,0 +1,2 @@
+ResourceGroupName,PEName,Location,SubnetId,ServiceResourceId,GroupId
+network-rg,myPE,westeurope,/subnet/...,/storageaccount,blob

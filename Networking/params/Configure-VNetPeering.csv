@@ -1,0 +1,2 @@
+SourceRG,SourceVNet,DestRG,DestVNet,PeeringName
+rg1,vnet1,rg2,vnet2,peer1

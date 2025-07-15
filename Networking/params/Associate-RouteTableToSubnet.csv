@@ -1,0 +1,2 @@
+ResourceGroupName,VNetName,SubnetName,RouteTableName
+network-rg,myVNet,default,myRouteTable
