@@ -1,2 +1,0 @@
-ResourceGroupName,VMName,DiskSizeGB,Lun
-sample-resourcegroupname,sample-vmname,sample-disksizegb,sample-lun
